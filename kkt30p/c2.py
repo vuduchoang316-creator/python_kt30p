@@ -18,6 +18,6 @@ while True:
        print("Mật khẩu sai, vui lòng nhập lại!")
        count += 1 
     
-    if count == 3:
+    if count == 4:
         print("Tài khoản đã bị khóa!")
         break
